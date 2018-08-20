@@ -1,19 +1,15 @@
-# Plataforma de ventas en línea
+# Plataforma de ventas en línea 
+
 
 ## Preámbulo
+La importancia de cuidar la imagen al máximo y de saber sacarse el mejor partido es una de necesidades que hoy persiguen a varias personas.Pues a través de la imagen se comunica quién y como se es. La forma de vestir, la combinación de las prendas, la elección de los colores, el corte, el peinado y maquillaje elegidos y los complementos definen lo que se quiere transmitir, una buena imagen es la mejor carta de presentación.
+Es ahí donde nace My Outfie , que es una plataforma en Línea que te brinda asesoramiento  a través de un Personal Shopper, que prácticamente te acompaña en tus compras ayudando a tomar decision acertadas respecto a tu Marca Personal.
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+# My Outfie
+My Outfie es una plataforma en línea que te  va orientando de acuerdos a cierta información que inicialmente es ingresada  por el usuario como la corriente de moda  , forma de su cuerpo, color de piel  con la finalidad de mostrarte desde accesorios hasta prendas que más se ajusten a las caracterísiticas que ingresaste  todos estos categorizados por precios y colores de prenda o accesorios, además te permiten reservar si deseas una cita con un Personal Shopper.
+Lo que hemos podido observar es que los contenidos no están claros al momento de interáctuar con la plataforma.Ahora nos falta investigar o testearlo con otros usuarios. Posiblemente realizarémos un rediseño de su E-commerce de My Outfie.
+
+
 
 ## Introducción
 
