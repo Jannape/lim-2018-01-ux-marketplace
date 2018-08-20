@@ -4,14 +4,14 @@ https://www.myoutfie.com/outfits/
 La importancia de cuidar la imagen al máximo y de saber sacarse el mejor partido es una de necesidades que hoy persiguen a varias personas.Pues a través de la imagen se comunica quién y como se es. La forma de vestir, la combinación de las prendas, la elección de los colores, el corte, el peinado y maquillaje elegidos y los complementos definen lo que se quiere transmitir, una buena imagen es la mejor carta de presentación.
 Es ahí donde nace My Outfie , que es una plataforma en Línea que te brinda asesoramiento  a través de un Personal Shopper, que prácticamente te acompaña en tus compras ayudando a tomar decision acertadas respecto a tu Marca Personal.
 
-# Entendimiento del problema
+## Entendimiento del problema
 My Outfie es una plataforma en línea que te  va orientando de acuerdos a cierta información que inicialmente es ingresada  por el usuario como la corriente de moda  , forma de su cuerpo, color de piel  con la finalidad de mostrarte desde accesorios hasta prendas que más se ajusten a las caracterísiticas que ingresaste  todos estos categorizados por precios y colores de prenda o accesorios, además te permiten reservar si deseas una cita con un Personal Shopper.
 Lo que hemos podido observar es que los contenidos no están claros al momento de interáctuar con la plataforma.Ahora nos falta investigar o testearlo con otros usuarios. Posiblemente realizarémos un rediseño de su E-commerce de My Outfie.
 
 * Entrevista
-https://docs.google.com/document/d/1dhqdqI3xj8WDQdIJ5s2ggPuxrakZuXCObT0yIKsb5eE/edit?usp=sharing
+* https://docs.google.com/document/d/1dhqdqI3xj8WDQdIJ5s2ggPuxrakZuXCObT0yIKsb5eE/edit?usp=sharing
 * Planificación de herramientas
-https://docs.google.com/spreadsheets/d/1CdagCwHNP55dVa2wS8ZNY_TfEVY6OYIiKRsXcfJ5Mso/edit?usp=sharing
+* https://docs.google.com/spreadsheets/d/1CdagCwHNP55dVa2wS8ZNY_TfEVY6OYIiKRsXcfJ5Mso/edit?usp=sharing
 
 README.md  explicando el proceso del proyecto:
 ## Objetivos del proyecto
