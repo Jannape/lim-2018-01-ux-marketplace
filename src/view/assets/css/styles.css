@@ -1,0 +1,22 @@
+body {
+	background-size: cover;
+	background-image: url("../img/comunal.jpg");
+}
+
+.home {
+	margin-top: 15%;
+}
+
+.card {
+	margin-top: 2%;
+}
+
+#canvas {
+	display: none;
+}
+
+.btn {
+	margin: 5%;
+	display: inline-block;
+}
+
