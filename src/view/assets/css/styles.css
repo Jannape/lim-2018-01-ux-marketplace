@@ -1,22 +1,5 @@
-body {
-	background-size: cover;
-	background-image: url("../img/comunal.jpg");
-}
+.map {
+    width: 500px;
+    height: 500px;
 
-.home {
-	margin-top: 15%;
-}
-
-.card {
-	margin-top: 2%;
-}
-
-#canvas {
-	display: none;
-}
-
-.btn {
-	margin: 5%;
-	display: inline-block;
-}
-
+} 
