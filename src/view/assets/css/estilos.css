@@ -1,0 +1,32 @@
+/* .mn{
+    background-color: black;
+}
+
+.nav {
+    background-color: blue;
+}
+.nav-wrapper{
+    background-color: blue;
+} */
+#my-icon {
+    position: relative;
+    top: .2em;
+    margin-right: .2em;
+}
+
+.nav-extended {
+    margin-top: 1em;
+    background-color: rgb(253, 253, 253);
+}
+
+.nav {
+    background-color: #F34876;
+} 
+.btn, .btn-large, .btn-small, .btn-flat {
+    padding :0 85px;
+  
+}
+.btn, .btn-large, .btn-small{
+    background-color: #F34876;
+     padding :0 99px;
+}
