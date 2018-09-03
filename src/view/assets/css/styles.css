@@ -3,3 +3,13 @@
     height: 500px;
 
 } 
+
+.breadcrumb {
+/* margin: 0;
+padding: 0;
+overflow: hidden; */
+background-color: #F34876;
+}
+.letter-miga {
+color: #f8f9fa;
+}

@@ -13,52 +13,83 @@
 	<link rel="stylesheet" href="view/assets/css/spinner.css">
 	<link rel="stylesheet" href="view/assets/css/styles.css">
 	<link href="https://file.myfontastic.com/Qu8Wvrgb63WxdhMvwKBSyG/icons.css" rel="stylesheet">
-</head>
+	
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
 
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+         
+</head>
 <body>
-	
+		<nav class="nav-extended">
+				<div class="nav-wrapper">
+					<a href="#" class="brand-logo">Logo</a>
+					<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+					<ul id="nav-mobile" class="right hide-on-med-and-down">
+						<li><a href="sass.html">Sass</a></li>
+						<li><a href="badges.html">Components</a></li>
+						<li><a href="collapsible.html">JavaScript</a></li>
+					</ul>
+				</div>
+				<div class="nav-content">
+					<ul class="tabs tabs-transparent">
+						<li class="tab"><a href="#test1">Test 1</a></li>
+						<li class="tab"><a class="active" href="#test2">Test 2</a></li>
+						<li class="tab disabled"><a href="#test3">Disabled Tab</a></li>
+						<li class="tab"><a href="#test4">Test 4</a></li>
+					</ul>
+				</div>
+			</nav>
 	<div class="animate-bottom">
-	
 		<div class="card text-center">
 			<div class="card-header">
-					<nav class="navbar navbar-expand-lg navbar-light bg-light">
-							<a class="navbar-brand carrito" href="#">AMAR</a>
-							<p class="icon-heart-o">jannita</p>
-							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-							  <span class="navbar-toggler-icon"></span>
-							</button>
-						  
-							<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-							  <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-								<li class="nav-item active">
-								  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+					<ul class="nav justify-content-end">
+							<li class="nav-item">
+									<a class="nav-link" href="#">	<img src="view/assets/img/search.svg" alt="Smiley face" height="35" width="34"></a>
 								</li>
-								<li class="nav-item">
-								  <a class="nav-link" href="#">Link</a>
-								</li>
-								<li class="nav-item">
-								  <a class="nav-link disabled" href="#">Disabled</a>
-								</li>
-							  </ul>
-							  <form class="form-inline my-2 my-lg-0">
-								<input class="form-control mr-sm-2" type="search" placeholder="Search">
-								<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-							  </form>
-							</div>
-						  </nav>
+							<li class="nav-item">
+								<a class="nav-link active" href="#">
+										<img src="view/assets/img/heart.svg" alt="Smiley face" height="30" width="30">
+								</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">
+								<img src="view/assets/img/shopping-basket.svg" alt="Smiley face" height="35" width="34">
+							</li></a>
+							
+					
+						</ul>
 			</div>
 			<div class="card-body">
-				
-				
-							<nav aria-label="breadcrumb">
-									<ol class="breadcrumb">
-									  <li class="breadcrumb-item"><a href="#">Home</a></li>
-									  <li class="breadcrumb-item"><a href="#">Library</a></li>
-									  <li class="breadcrumb-item active" aria-current="page">Data</li>
-									</ol>
-								  </nav>
-			
+					<ul class="nav justify-content-center">
+							<li class="nav-item">
+								<a class="nav-link active" href="#">NOSOTROS</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">EDREDONES</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="#">COJINES</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link disabled" href="#">TAPETES</a>
+							</li>
+						</ul>
 			</div>
+	
+
+			<nav aria-label="breadcrumb">
+				<ol class="breadcrumb">
+					<li class="breadcrumb-item">
+						<a class="letter-miga" href="#">Inicio</a>
+					</li>
+					<li class="breadcrumb-item">
+						<a class="letter-miga" href="#">Library</a>
+					</li>
+
+				</ol>
+			</nav>
 			<div class="card-body">
 				<div class="card-deck">
 					<div class="card">
@@ -159,14 +190,10 @@
 					</div>
 				</div>
 			</div>
-
-
 		</div>
-
 	</div>
 	</div>
 </body>
-
 <script src="view/assets/js/bootstrap.js"></script>
 <script src="view/assets/js/popper.min.js"></script>
 <script src="view/assets/js/spinner.js"></script>
